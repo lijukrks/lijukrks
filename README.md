@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liju Kuriakose</h1>
-<h3 align="center">Co-Founder Flycatch</h3>
+<h3 align="center">Co-Founder at Flycatch</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijukrks&label=Profile%20views&color=0e75b6&style=flat" alt="lijukrks" /> </p>
 
